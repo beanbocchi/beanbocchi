@@ -110,7 +110,7 @@
 ## ⏲️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C601%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C613%20hrs%2028%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -118,21 +118,21 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               14 hrs 59 mins      ███████████████░░░░░░░░░░   59.44 % 
-Markdown                 2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Prisma                   2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Bash                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+TypeScript               4 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.91 % 
+Prisma                   1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-Go                       10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Dockerfile               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+JavaScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+TypeScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Go                       10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 ```
 
 
