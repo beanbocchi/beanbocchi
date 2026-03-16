@@ -110,7 +110,7 @@
 ## ⏲️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C613%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C628%20hrs%2044%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -118,11 +118,11 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               4 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.91 % 
-Prisma                   1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+TypeScript               9 hrs 55 mins       ████████████████████░░░░░   79.02 % 
+Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Prisma                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 
 **I Mostly Code in JavaScript** 
