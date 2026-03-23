@@ -110,7 +110,7 @@
 ## ⏲️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C628%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C647%20hrs%2048%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -118,21 +118,21 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               9 hrs 55 mins       ████████████████████░░░░░   79.02 % 
-Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Prisma                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+TypeScript               8 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   40.99 % 
+Go                       6 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.12 % 
+Markdown                 2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+SQL                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-TypeScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+TypeScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 Go                       10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Dockerfile               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
