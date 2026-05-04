@@ -110,19 +110,19 @@
 ## ⏲️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C783%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C817%20hrs%2026%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Bangkok
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Go                       12 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   32.77 % 
-SQL                      11 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-TypeScript               5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Other                    4 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Markdown                 2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Go                       19 hrs              ██████████████░░░░░░░░░░░   56.18 % 
+Other                    5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Markdown                 3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+SQL                      3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Typst                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 ```
 
 **I Mostly Code in JavaScript** 
