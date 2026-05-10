@@ -3,66 +3,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=codeonbeans)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=82A0D8&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Go+%26+TypeScript+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=82A0D8&center=true&vCenter=true&width=435&lines=Software+Engineering;Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
-
-## 💫 About Me
-
-<table align="center">
-  <thead>
-    <tr>
-      <th align="center"><h3><strong>INFO</strong></h3></th>
-      <th align="center"><h3><strong>DETAIL</strong></h3></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><strong>🎯 Name</strong></td>
-      <td>Đậu Văn Đăng Khoa</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>💻 Username</strong></td>
-      <td>codeonbeans</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🚹 Gender</strong></td>
-      <td>Male</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>📍 Location</strong></td>
-      <td>Ho Chi Minh City, Vietnam 🇻🇳</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🎓 Education</strong></td>
-      <td>Software Engineering Student at PTIT<br><em>Posts and Telecommunications Institute of Technology</em></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>📅 Started</strong></td>
-      <td>September 11, 2022</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🎮 Interests</strong></td>
-      <td>Gaming • Movies • Music • Coding</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>💡 Current Focus</strong></td>
-      <td>Backend Development with Go & TypeScript</td>
-    </tr>
-  </tbody>
-</table>
-
-<div align="center">
-  <br>
-
-
-  <img src="https://little.kylerconway.com/images/golang-what.gif" width="200" alt="Golang Gopher" />
-
-  <br>
-
-<!-- [![Wakatime](https://wakatime.com/badge/user/592c97c4-15ad-49cb-ac34-d607be35c524.svg?style=for-the-badge)](https://wakatime.com/592c97c4-15ad-49cb-ac34-d607be35c524) -->
-# ⭐ If you find my work interesting, I'd be thrilled if you could star any of my repositories! ⭐
-<br>
-
 
 </div>
 
@@ -135,54 +77,16 @@ Python                   9 repos             ███░░░░░░░░�
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 
-
-
-
-<!--END_SECTION:waka-->
-
-
-
-## 📊 GitHub Analytics
-
-<details>
-  <summary align="center">
-    <h3>🔍 Click to view my GitHub stats</h3>
-  </summary>
-
-  <div align="center">
-    <br>
-<!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=codeonbeans&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Stats" />
-    <!-- GitHub Streak -->
-    <img src="https://streak-stats.demolab.com?user=codeonbeans&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=400" alt="GitHub Streak" />
-    <br><br><!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeonbeans&langs_count=8&theme=tokyonight&hide_border=true&layout=compact&card_width=400" alt="Top Languages" />
-    <!-- WakaTime Stats -->
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codeonbeans&theme=tokyonight&hide_border=true&custom_title=WakaTime%20Stats&card_width=400&layout=compact&langs_count=8" alt="WakaTime Stats" />
-    <br><br>
-    <!-- Activity Graph -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeonbeans&theme=tokyo-night&hide_border=true&radius=8&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%" />
-    <br><br>
-    <!-- GitHub Trophies -->
-<!--     <img src="https://github-profile-trophy.vercel.app/?username=codeonbeans&column=4&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" /> -->
-
-  </div>
-
-</details>
-
-
-
 <div align="center">
+  <br>
 
-### 🎯 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![Snake animation](https://github.com/codeonbeans/codeonbeans/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://little.kylerconway.com/images/golang-what.gif" width="200" alt="Golang Gopher" />
 
   <br>
 
-**Thanks for visiting! Let's build something amazing together! 🚀**
-
-## 🌐 Connect With Me
+<!-- [![Wakatime](https://wakatime.com/badge/user/592c97c4-15ad-49cb-ac34-d607be35c524.svg?style=for-the-badge)](https://wakatime.com/592c97c4-15ad-49cb-ac34-d607be35c524) -->
+# ⭐ If you find my work interesting, I'd be thrilled if you could star any of my repositories! ⭐
 
 <div align="center">
   <a href="mailto:codeonbeans@gmail.com" target="_blank">
